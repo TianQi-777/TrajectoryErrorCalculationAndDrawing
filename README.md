@@ -1,4 +1,3 @@
 # TrackAlignmentWith_ICP
-This is a project modified on the basis of 
+This is a small demo to compare and plot SLAM estimated trajectories and true trajectories
 
-The whole project is tested in Ubuntu Platorforms

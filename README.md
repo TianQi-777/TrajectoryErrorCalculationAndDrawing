@@ -1,13 +1,22 @@
 # TrackAlignmentWith_ICP
-This is a small demo to compare and plot SLAM estimated trajectories and ground-truth trajectories.
+This is a small demo to compare and plot SLAM estimated trajectories and ground-truth trajectories with ICP.
 
-# Mathematical derivation
+The whole project is tested in **Ubuntu** Platorforms
+
+## Mathematical derivation
 ![](https://github.com/TianQi-777/TrackAlignmentWith_ICP/blob/master/images/formula1.png)
 
-# Data description
+## Data description
 ground-truth.txt:ground-truth trajectories data  
 estimate.txt:estimated trajectories data  
 
 **Data storage form**  
 Time  Translation-x  Translation-y  Translation-z  Quaternion-x  Quaternion-y  Quaternion-z  Quaternion-w  
 
+## Additional Prerequisites for this project
+#### Pangolin
+We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and interface. 
+Dowload and install instructions can be found at: https://github.com/stevenlovegrove/Pangolin.
+
+#### OpenCV
+We use [OpenCV](http://opencv.org) to simply read and display image.

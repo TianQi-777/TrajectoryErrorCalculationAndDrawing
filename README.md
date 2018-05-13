@@ -1,7 +1,7 @@
 # TrackAlignmentWith_ICP
 This is a small demo to compare and plot SLAM estimated trajectories and ground-truth trajectories with ICP.
 
-The whole project is tested in **Ubuntu** Platorforms
+The whole demo is tested in **Ubuntu** Platorforms
 
 ## Mathematical derivation
 <div align=center>  
@@ -34,4 +34,12 @@ cmake ..
 make -j2  
 ./estimated
 ```
+
+## Result
+**Pangolin GUI:** .  
+
+
+
+
+
 

@@ -21,5 +21,3 @@ Time  Translation-x  Translation-y  Translation-z  Quaternion-x  Quaternion-y  Q
 We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and interface. 
 Dowload and install instructions can be found at: https://github.com/stevenlovegrove/Pangolin.
 
-**OpenCV**  
-We use [OpenCV](http://opencv.org) to simply read and display image.

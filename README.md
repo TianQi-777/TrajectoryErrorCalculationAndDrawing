@@ -1,9 +1,9 @@
 # TrackAlignment
-This is a small demo to compare and plot SLAM estimated trajectories and ground-truth trajectories with ICP and Pangolin.
+This is a small demo to compare and plot SLAM estimated trajectories and ground-truth trajectories.
 
 The whole demo is tested in **Ubuntu** Platorforms
 
-## Mathematical derivation
+## Mathematical theory
 <div align=center>  
   
 ![](https://github.com/TianQi-777/TrackAlignmentWith_ICP/blob/master/images/formula1.png)

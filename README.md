@@ -9,5 +9,5 @@ ground-truth.txt:ground-truth trajectories data
 estimate.txt:estimated trajectories data  
 
 **Data storage form**  
-time translation-x translation-y translation-z Quaternion-x Quaternion-y Quaternion-z Quaternion-w  
+Time  Translation-x  Translation-y  Translation-z  Quaternion-x  Quaternion-y  Quaternion-z  Quaternion-w  
 

@@ -37,7 +37,10 @@ make -j2
 
 ## Result
 **Pangolin GUI:** .  
-
+<div align=center>  
+  
+![](https://github.com/TianQi-777/TrackAlignmentWith_ICP/blob/master/images/Alignment.png)
+</div>
 
 
 

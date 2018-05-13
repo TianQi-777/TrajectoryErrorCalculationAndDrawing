@@ -10,16 +10,16 @@ The whole project is tested in **Ubuntu** Platorforms
 </div>
 
 ## Data description
-**ground-truth.txt:**ground-truth trajectories data  
-**estimate.txt:**estimated trajectories data  
+**ground-truth.txt**:ground-truth trajectories data  
+**estimate.txt**:estimated trajectories data  
 
 **Data storage form**  
 Time  Translation-x  Translation-y  Translation-z  Quaternion-x  Quaternion-y  Quaternion-z  Quaternion-w  
 
 ## Additional Prerequisites for this project
-**Pangolin**
+**Pangolin**  
 We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and interface. 
 Dowload and install instructions can be found at: https://github.com/stevenlovegrove/Pangolin.
 
-**OpenCV**
+**OpenCV**  
 We use [OpenCV](http://opencv.org) to simply read and display image.

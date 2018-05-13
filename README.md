@@ -1,4 +1,4 @@
-# TrackAlignmentWith_ICP
+# TrackAlignment
 This is a small demo to compare and plot SLAM estimated trajectories and ground-truth trajectories with ICP and Pangolin.
 
 The whole demo is tested in **Ubuntu** Platorforms

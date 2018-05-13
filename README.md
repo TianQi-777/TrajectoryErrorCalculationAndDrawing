@@ -21,3 +21,17 @@ Time  Translation-x  Translation-y  Translation-z  Quaternion-x  Quaternion-y  Q
 We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and interface. 
 Dowload and install instructions can be found at: https://github.com/stevenlovegrove/Pangolin.
 
+**Sophus**  
+We use [Sophus](https://github.com/strasdat/Sophus) for Lie groups commonly used for 2d and 3d geometric problems. 
+Dowload and install instructions can be found at: https://github.com/strasdat/Sophus.
+
+## Build and Run
+```
+cd XX/XX(include estimated.cpp ,estimated.txt ,groundtruth.txt and CMakeLists.txt)  
+mkdir build  
+cd build  
+cmake ..  
+make -j2  
+./estimated
+```
+

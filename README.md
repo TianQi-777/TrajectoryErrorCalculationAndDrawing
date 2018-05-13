@@ -16,7 +16,7 @@ The whole demo is tested in **Ubuntu** Platorforms
 **Data storage form**  
 Time  Translation-x  Translation-y  Translation-z  Quaternion-x  Quaternion-y  Quaternion-z  Quaternion-w  
 
-## Additional Prerequisites for this project
+## Additional Prerequisites for this demo
 **Pangolin**  
 We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and interface. 
 Dowload and install instructions can be found at: https://github.com/stevenlovegrove/Pangolin.

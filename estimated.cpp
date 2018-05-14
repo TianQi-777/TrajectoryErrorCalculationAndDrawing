@@ -96,7 +96,6 @@ void DrawTrajectory(vector<Sophus::SE3, Eigen::aligned_allocator<Sophus::SE3>> p
         return;
     }
 
-    // create pangolin window and plot the trajectory
     pangolin::CreateWindowAndBind("Trajectory Viewer", 1024, 768);
     glEnable(GL_DEPTH_TEST);
     glEnable(GL_BLEND);

@@ -1,4 +1,4 @@
-# TrackAlignment
+# TrajectoryErrorCalculationAndDrawing
 This is a small demo to compare and plot SLAM estimated trajectories and ground-truth trajectories.
 
 The whole demo is tested in **Ubuntu** Platorforms

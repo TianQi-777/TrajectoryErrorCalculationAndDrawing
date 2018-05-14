@@ -6,7 +6,7 @@ The whole demo is tested in **Ubuntu** Platorforms
 ## Mathematical theory
 <div align=center>  
   
-![](https://github.com/TianQi-777/TrackAlignmentWith_ICP/blob/master/images/formula1.png)
+![](https://github.com/TianQi-777/TrajectoryErrorCalculationAndDrawing/blob/master/images/formula1.png)
 </div>
 
 ## Data description
